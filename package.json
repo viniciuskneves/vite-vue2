@@ -7,11 +7,11 @@
     "serve": "vite preview"
   },
   "dependencies": {
-    "vue": "2.6.12"
+    "vue": "2.6.13"
   },
   "devDependencies": {
     "vite": "2.3.6",
     "vite-plugin-vue2": "1.6.2",
-    "vue-template-compiler": "2.6.12"
+    "vue-template-compiler": "2.6.13"
   }
 }
