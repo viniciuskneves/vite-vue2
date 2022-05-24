@@ -10,7 +10,7 @@
     "vue": "3.2.36"
   },
   "devDependencies": {
-    "vite": "2.9.8",
+    "vite": "2.9.9",
     "vite-plugin-vue2": "2.0.1",
     "vue-template-compiler": "2.6.14"
   }
